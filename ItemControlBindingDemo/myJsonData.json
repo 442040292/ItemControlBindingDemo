@@ -1,0 +1,26 @@
+﻿{
+  "success": true,
+  "data": [
+    {
+      "price": 69,
+      "name": "终身VIP",
+      "description": "无损不限大小次数",
+      "orig_price": 199
+    },
+    {
+      "price": 39,
+      "name": "1年VIP",
+      "description": "无损不限大小次数"
+    },
+    {
+      "price": 29,
+      "name": "3个月VIP",
+      "description": "无损不限大小次数"
+    },
+    {
+      "price": 19,
+      "name": "1天VIP",
+      "description": "无损不限大小次数"
+    }
+  ]
+}
